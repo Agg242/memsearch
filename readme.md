@@ -7,7 +7,7 @@ Investigating process hunks, I coded this small utility to follow/understand seg
 
 ## Usage
 
-memsearch STRING/K,LONG/K,START/K,END/K
+`memsearch STRING/K,LONG/K,START/K,END/K`
 
 
 ## Build
